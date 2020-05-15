@@ -9,7 +9,7 @@ entries:
     name: api-user-webapi
     type: application
     urls:
-    - charts/api-user-webapi-0.1.0.tgz
+    - https://bssantiago.github.io/chartRepoTest/api-user-webapi-0.1.0.tgz
     version: 0.1.0
   pgadmin:
   - apiVersion: v2
@@ -20,7 +20,7 @@ entries:
     name: pgadmin
     type: application
     urls:
-    - charts/pgadmin-0.1.0.tgz
+    - https://bssantiago.github.io/chartRepoTest/pgadmin-0.1.0.tgz
     version: 0.1.0
   postgres:
   - apiVersion: v2
@@ -31,7 +31,7 @@ entries:
     name: postgres
     type: application
     urls:
-    - charts/postgres-0.1.0.tgz
+    - https://bssantiago.github.io/chartRepoTest/postgres-0.1.0.tgz
     version: 0.1.0
 generated: "2020-04-30T21:18:47Z"
 serverInfo: {}
